@@ -26,4 +26,6 @@ def parse(source):
             if len(cell.text) > 0:
                 c.append(int(cell.text))
         data['c'].append(c)
-    print(data)
+    #print(data)
+
+    return data
