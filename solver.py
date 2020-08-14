@@ -11,10 +11,7 @@ import argparse
 ## TODO: there is a problem where one of cells might switch to next cell
 ## to reproduce use example 6
 
-# 0-'*': unknown
-# 1-'X': black
-# 2-'.': white
-NCH = ['*', 'X', '.']
+
 
 class NonogramSolver(object):
     def __init__(self, dic):
@@ -28,10 +25,15 @@ class NonogramSolver(object):
         self.RC = len(self.marks['r'])
         self.CC = len(self.marks['c'])
 
+        # 0-'*': unknown
+        # 1-'X': black
+        # 2-'.': white
+        self.NCH = ['*', 'X', '.']
+
         self.NONO = np.zeros((self.RC, self.CC), dtype=np.int)
 
     def __str__(self):
-        return '\n'.join([''.join([NCH[c] for c in r]) for r in self.NONO])
+        return '\n'.join([''.join([self.NCH[c] for c in r]) for r in self.NONO])
 
     def set_verbose(self, verbose):
         self._verbose = verbose
@@ -123,8 +125,8 @@ class NonogramSolver(object):
             pass_cnt += 1
 
 
-def solve(path):
-    return NonogramSolver(path).solve()
+# def solve(path):
+#     return NonogramSolver(path).solve()
 
 # if __name__ == '__main__':
 #     parser = argparse.ArgumentParser()
