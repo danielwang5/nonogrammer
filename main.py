@@ -1,7 +1,7 @@
 from selenium import webdriver
 
-from parser import parse
-from solver import NonogramSolver
+from parser_nono import parse
+from solver_nono import NonogramSolver
 
 
 def main():
@@ -13,9 +13,9 @@ def main():
 
     json = parse(driver.page_source)
 
-    solver = NonogramSolver(json)
-    solver.solve()
-    solution = solver.result()
+    # solver = NonogramSolver(json)
+    # solver.solve()
+    # solution = solver.result()
 
 
 if __name__ == '__main__':
