@@ -6,7 +6,7 @@ from solver_nono import NonogramSolver
 
 
 def main():
-    url = 'http://www.puzzle-nonograms.com/'
+    url = 'http://www.puzzle-nonograms.com/?size=4'
 
     # add adblocker
     adblock_path = r'C:\Users\Dan\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.28.4_8'
