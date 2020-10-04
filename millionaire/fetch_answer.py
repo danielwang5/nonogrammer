@@ -11,7 +11,7 @@ class Fetcher:
 
         file = open(self.filepath, mode='r')
 
-        data = self.file.read()
+        data = file.read()
         qas = data.split(self.divider_big)
 
         for qa in qas:
@@ -24,21 +24,22 @@ class Fetcher:
 
     # returns answerindex (int), guessed (boolean)
     def check(self, question, answers):
-        qhash = questionhash(question, answers)
+        qhash = self.questionhash(question, answers)
         if qhash in self.key:
             ans = self.key[qhash]
-            return (answers.index(ans), false)
+            return (answers.index(ans), False)
         else:
-            return (random.randint(0,3), true)
+            return (random.randint(0,3), True)
 
     # make it so each question and set of answers has a unique hash
     def questionhash(self, question, answers):
-        a = answers[:].sort()
-        return q + ''.join(a)
+        a = answers[:]
+        a.sort()
+        return question + ''.join(a)
 
     # adds q/a to txt file
     def addanswer(self, question, answers, correctindex):
-        qhash = questionhash(question, answers)
+        qhash = self.questionhash(question, answers)
         ans = answers[correctindex]
 
         # update dict and file
