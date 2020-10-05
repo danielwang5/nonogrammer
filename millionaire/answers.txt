@@ -1,1 +1,530 @@
-Which of the following symbols means divide?+-×÷####÷@@@@All matter is made from tiny particles called...AtomsBricksSandTiny Particles####Atoms@@@@The chemical symbol Pt represents the element...ArgonChlorineIodinePlatinum####Platinum@@@@What is the product of 7 and 13?101208191####91@@@@Which of the following symbols means subtract?+-×÷####-@@@@The chemical symbol N represents the element...CarbonFluorineHeliumNitrogen####Nitrogen@@@@The chemical symbol I represents the element...ArgonChlorineIodinePlatinum####Iodine@@@@What is the sum of 8 and 6?-214248####14@@@@Which is the memory device people use to help themremember the order of the colors in the visible spectrum?EIEIOJOHNNY B. GOODEOBAFGKMROY G. BIV####ROY G. BIV@@@@The chemical symbol H represents the element...HydrogenLithiumOxygenUranium####Hydrogen@@@@What is the sum of 7 and 13?1819206####20@@@@Which of the following symbols means 'less than'?<>^||####<@@@@What is the sum of 8 and 4?-412324####12@@@@Which of the following symbols means add?+-×÷####+@@@@The chemical symbol S represents the element...CalciumNeonNickelSulfur####Sulfur@@@@The chemical symbol C represents the element...CarbonFluorineHeliumNitrogen####Carbon@@@@Which of the following is true?13 ÷ 2 < 8 - 314 + 11 > 5 × 519 + 2 = 63 ÷ 36 × 3 < 6 + 3####19 + 2 = 63 ÷ 3@@@@Which one of the following measurements is the smallest?One footOne inchOne mileOne yard####One inch@@@@The chemical symbol Li represents the element...HydrogenLithiumOxygenUranium####Lithium@@@@Which one of the following shapes has exactly four sides?CircleHexagonSquareTriangle####Square@@@@Which of the following symbols means 'greater than'?!#<>####>@@@@What is the product of 9 and 17?-8153268####153@@@@Which one of the following shapes has exactly six sides?CircleHexagonSquareTriangle####Hexagon@@@@What is the product of 8 and 6?-214248####48@@@@What is the sum of 3 and 5?152358####8@@@@The chemical symbol U represents the element...HydrogenLithiumOxygenUranium####Uranium@@@@Which one of the following animals is an amphibian?DeerFishFrogMoose####Frog@@@@The chemical symbol He represents the element...CarbonFluorineHeliumNitrogen####Helium@@@@The chemical symbol Ar represents the element...ArgonChlorineIodinePlatinum####Argon@@@@Which of the following is true?1 ÷ 4 = 4 ÷ 1618 + 4 = 14 + 65 × 4 > 3 × 89 - 3 < 6 - 5####1 ÷ 4 = 4 ÷ 16@@@@Which one of the following animals is an insect?AntBirdRabbitSnake####Ant@@@@The Earth goes around...MarsThe moonThe sunVenus####The sun@@@@Which of the following expressions is the smallest?20 ÷ 807 × 68 × 780 ÷ 20####20 ÷ 80@@@@Which of the following expressions is the largest?10 × 345 ÷ 37 × 590 ÷ 3####7 × 5@@@@What is the name of our galaxy?My Cousin VinnieOur Big GalaxySomewhere Over the RainbowThe Milky Way####The Milky Way@@@@What is the sum of 15 and 12?18027372####27@@@@The chemical symbol Ca represents the element...CalciumNeonNickelSulfur####Calcium@@@@Which one of the following animals is an invertebrate?CatDogMosquitoWhale####Mosquito@@@@Which of the following is true?0 ÷ 8 > 3 ÷ 32 ÷ 10 > 10 ÷ 220 ÷ 5 > 20 ÷ 48 ÷ 2 > 3 ÷ 5####8 ÷ 2 > 3 ÷ 5@@@@Which of the following symbols means multiply?+-×÷####×@@@@What is the sum of 9 and 17?-8153268####26@@@@Which number would make the statement below true?101268####6@@@@Which one of the following numbers is a prime number?2469####2@@@@What is the average of 8, 12 and 10?1012308####10@@@@The chemical symbol Ni represents the element...CalciumNeonNickelSulfur####Nickel@@@@Which one of the following measurements is the largest?One footOne inchOne mileOne yard####One mile@@@@What is the sum of 5 and 12?-717607####17@@@@Which number would make the statement below true?1820217####20@@@@Water is an example of a...GasLiquidPlasmaSolid####Liquid@@@@The chemical symbol Cl represents the element...ArgonChlorineIodinePlatinum####Chlorine@@@@What is the product of 15 and 12?18027372####180
+
+####<p>The chemical symbol <b>O</b> represents the element...</p>HydrogenLithiumOxygenUranium@@@@Oxygen
+####<p>What is the product of 8 and 4?</p>-412324@@@@32
+####<p>The chemical symbol <b>He</b> represents the element...</p>CarbonFluorineHeliumNitrogen@@@@Helium
+####<p>Which of the following symbols means divide?</p>+-×÷@@@@÷
+####<p>The chemical symbol <b>Ni</b> represents the element...</p>CalciumNeonNickelSulfur@@@@Nickel
+####<p>Which one of the following measurements is the smallest?</p>One centimeterOne kilometerOne meterOne millimeter@@@@One millimeter
+####<p>Which one of the following measurements is the largest?</p>One centimeterOne kilometerOne meterOne millimeter@@@@One kilometer
+####<p>The chemical symbol <b>U</b> represents the element...</p>HydrogenLithiumOxygenUranium@@@@Uranium
+####<p>The chemical symbol <b>Ne</b> represents the element...</p>CalciumNeonNickelSulfur@@@@Neon
+####<p>Distance can be measured with a...</p>Chewed wad of gumMeter stickPonySlinky@@@@Meter stick
+####<p>Which of the following symbols means 'greater than'?</p>!#<>@@@@>
+####<p>The chemical symbol <b>Ca</b> represents the element...</p>CalciumNeonNickelSulfur@@@@Calcium
+####<p>The chemical symbol <b>Pt</b> represents the element...</p>ArgonChlorineIodinePlatinum@@@@Platinum
+####<p>What planet do we live on?</p>EarthJupiterMarsSaturn@@@@Earth
+####<p>What is the sum of 7 and 13?</p>1819206@@@@20
+####<p>What do scientists use to launch satellites into space?</p>Large trampolinesRocketsRubber bandsSling shots@@@@Rockets
+####<p>What is the product of 5 and 8?</p>1314340@@@@40
+####<p>Which of the following expressions is the largest?</p>11 + 72 × 112 × 77 + 11@@@@2 × 11
+####<p>A rock is an example of a...</p>GasLiquidPlasmaSolid@@@@Solid
+####<p>Which one of the following measurements is the largest?</p>One footOne inchOne mileOne yard@@@@One mile
+####<p>Which one of the following animals is an invertebrate?</p>CatDogMosquitoWhale@@@@Mosquito
+####<p>Which of the following is true?</p>5 + 4 > 14 - 65 × 4 < 18 ÷ 28 + 11 > 60 ÷ 39 × 11 = 43 + 57@@@@5 + 4 > 14 - 6
+####<p>The chemical symbol <b>N</b> represents the element...</p>CarbonFluorineHeliumNitrogen@@@@Nitrogen
+####<p>The chemical symbol <b>I</b> represents the element...</p>ArgonChlorineIodinePlatinum@@@@Iodine
+####<p>Which one of the following measurements is the smallest?</p>One footOne inchOne mileOne yard@@@@One inch
+####<p>Which of the following symbols means add?</p>+-×÷@@@@+
+####<p>Water that falls from the sky as drops is called...</p>HailLightningRainSnow@@@@Rain
+####<p>Which one of the following shapes has exactly six sides?</p>CircleHexagonSquareTriangle@@@@Hexagon
+####<p>Which of the following is true?</p>0 ÷ 8 > 3 ÷ 32 ÷ 10 > 10 ÷ 220 ÷ 5 > 20 ÷ 48 ÷ 2 > 3 ÷ 5@@@@8 ÷ 2 > 3 ÷ 5
+####<p>Water is an example of a...</p>GasLiquidPlasmaSolid@@@@Liquid
+####<p>The chemical symbol <b>F</b> represents the element...</p>CarbonFluorineHeliumNitrogen@@@@Fluorine
+####<p>What is the sum of 12 and 7?</p>1819205@@@@19
+####<p>Which number would make the statement below true?</p><p class="cen">3 × ___ = 12</p>1246@@@@4
+####<p>The chemical symbol <b>H</b> represents the element...</p>HydrogenLithiumOxygenUranium@@@@Hydrogen
+####<p>The chemical symbol <b>Ar</b> represents the element...</p>ArgonChlorineIodinePlatinum@@@@Argon
+####<p>Which of the following expressions is the largest?</p>16 ÷ 43 + 03 × 15 - 2@@@@16 ÷ 4
+####<p>Which of the following symbols means 'less than'?</p><>^||@@@@<
+####<p>What is the sum of 3 and 9?</p>-612276@@@@12
+####<p>Which one of the following animals is an insect?</p>AntBirdRabbitSnake@@@@Ant
+####<p>What is the sum of 15 and 12?</p>18027372@@@@27
+####<p>Which of the following is true?</p>-5 + 4 > 8 × 016 + 8 < 8 × 32 × -4 = 10 - 184 ÷ 16 = 8 ÷ 24@@@@2 × -4 = 10 - 18
+####<p>Kinetic energy is...</p>Energy imported from KentuckyEnergy of motionMaking things move with your mindStored energy@@@@Energy of motion
+####<p>Which of the following expressions is the smallest?</p>15 - 32 + 921 - 68 + 6@@@@2 + 9
+####<p>What is the outer layer of the Earth's surface called?</p>CoreCrustMagmaMantle@@@@Crust
+####<p>Which one of the following animals is a vertebrate?</p>AntBearEarthwormSlug@@@@Bear
+####<p>Which of the following expressions is the largest?</p>1 ÷ 1012 - 42 + 63 × 3@@@@3 × 3
+####<p>What is the sum of 3 and 5?</p>152358@@@@8
+####<p>What is the name of our galaxy?</p>My Cousin VinnieOur Big GalaxySomewhere Over the RainbowThe Milky Way@@@@The Milky Way
+####<p>What is the product of 12 and 7?</p>19204884@@@@84
+####<p>Which number would make the statement below true?</p><p class="cen">9 × ___ = 27</p>1234@@@@3
+####<p>What is the product of 15 and 12?</p>18027372@@@@180
+####<p>Which of the following expressions is the smallest?</p>1 + 103 + 53 + 66 + 4@@@@3 + 5
+####<p>What material helps plants absorb energy from sunlight?</p>ChlorophyllCytoplasmStomataTranspiration@@@@Chlorophyll
+####<p>What is the product of 5 and 12?</p>-717607@@@@60
+####<p>What is the product of 7 and 13?</p>101208191@@@@91
+####<p>What must an astronaut have while on a spacewalk?</p>A mapA spacesuitA walking stickAn umbrella@@@@A spacesuit
+####<p>Which of the following symbols means multiply?</p>+-×÷@@@@×
+####<p>What is the sum of 5 and 8?</p>1314340@@@@13
+####<p>You are held to the Earth by...</p>GravityGumSharp toenailsTape@@@@Gravity
+####<p>What state of matter is ice?</p>GasLiquidSolidVirginia@@@@Solid
+####<p>How long does it take the Earth to make<br/>one rotation about its axis?</p>1 day1 hour1 week1 year@@@@1 day
+####<p>Which one of the following shapes has exactly four sides?</p>CircleHexagonSquareTriangle@@@@Square
+####<p>What is the sum of 5 and 12?</p>-717607@@@@17
+####<p>What is the sum of 8 and 4?</p>-412324@@@@12
+####<p>What is the sum of 8 and 6?</p>-214248@@@@14
+####<p>What is the product of 9 and 17?</p>-8153268@@@@153
+####<p>Which of the following expressions is the largest?</p>12 ÷ 616 ÷ 218 ÷ 320 ÷ 4@@@@16 ÷ 2
+####<p>Which of the following is true?</p>0 - 9 < 4 - 1817 - 4 < 12 - 34 - 5 < 5 - 47 - 1 < 17 - 12@@@@4 - 5 < 5 - 4
+####<p>Which one of the following numbers is a prime number?</p>2469@@@@2
+####<p>The chemical symbol <b>Cl</b> represents the element...</p>ArgonChlorineIodinePlatinum@@@@Chlorine
+####<p>Which one of the following shapes has exactly three sides?</p>CircleHexagonSquareTriangle@@@@Triangle
+####<p>Which number would make the statement below true?</p><p class="cen">13 - ___ = 7</p>122068@@@@6
+####<p>Which of the following expressions is the smallest?</p>-3 + 5-9 ÷ 34 × -25 - 8@@@@4 × -2
+####<p>Which of the following expressions is the smallest?</p>-2 × -3-3 - -5-8 + 34 ÷ -2@@@@-8 + 3
+####<p>Which of the following expressions is the largest?</p>18 + 420 - 321 ÷ 75 × 4@@@@18 + 4
+####<p>What instrument is used to observe distant objects?</p>MicrophoneMicroscopeTelephoneTelescope@@@@Telescope
+####<p>What are plant cells surrounded by?</p>A bike pathA cell wallA moatA white picket fence@@@@A cell wall
+####<p>Which of the following is true?</p>4 × 8 = 3 × 137 × 7 = 3 × 148 × 5 = 4 × 109 × 3 = 6 × 4@@@@8 × 5 = 4 × 10
+####<p>Which number would make the statement below true?</p><p class="cen">22 ÷ ___ = 2</p>11268@@@@11
+####<p>The center of the Earth is also known as the...</p>CoreCrustMagmaMantle@@@@Core
+####<p>Which of the following symbols means subtract?</p>+-×÷@@@@-
+####<p>Which of the following expressions is the smallest?</p>0 + 80 - 512 + 03 - 0@@@@0 - 5
+####<p>What number comes next?</p><p class="cen">-1, 2, -4, 8, -16, 32, __</p>-56-645664@@@@-64
+####<p>Which of the following expressions is the smallest?</p>15 - 215 ÷ 13 + 93 × 5@@@@3 + 9
+####<p>Which number would make the statement below true?</p><p class="cen">36 ÷ ___ = 6</p>12369@@@@6
+####<p>The chemical symbol <b>Li</b> represents the element...</p>HydrogenLithiumOxygenUranium@@@@Lithium
+####<p>What is the sum of 9 and 17?</p>-8153268@@@@26
+####<p>Which of the following is true?</p>10 × 1 = 1 × 104 + 7 < 7 + 44 + 7 > 7 + 45 ÷ 2 = 2 ÷ 5@@@@10 × 1 = 1 × 10
+####<p>Which of the following expressions is the smallest?</p>0 + 74 + 05 - 08 - 0@@@@4 + 0
+####<p>How long does it take for the Earth to make<br/>one revolution around the sun?</p>1 day1 month1 week1 year@@@@1 year
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_01.jpg" width="150"/></p><p class="credit">NASA/JPL</p>JupiterNeptuneSaturnUranus@@@@Jupiter
+####<p>What is the product of 8 and 6?</p>-214248@@@@48
+####<p>All matter is made from tiny particles called...</p>AtomsBricksSandTiny Particles@@@@Atoms
+####<p>Which of the following expressions is the smallest?</p>-18 ÷ 3-4 × -55 - 108 + -3@@@@-18 ÷ 3
+####<p>Which of the following expressions is the smallest?</p>16 - 217 + 518 - 58 + 14@@@@18 - 5
+####<p>Potential energy is...</p>Energy of motionEnergy that could make somethingof itself if it just applied itselfStored energyUnknown to science@@@@Stored energy
+####<p>Which is the memory device people use to help them<br/>remember the order of the colors in the visible spectrum?</p>EIEIOJOHNNY B. GOODEOBAFGKMROY G. BIV@@@@ROY G. BIV
+####<p>Which number would make the statement below true?</p><p class="cen">3 + ___ = 23</p>1820217@@@@20
+####<p>Which of the following expressions is the largest?</p>12 ÷ 220 - 94 × 39 + 4@@@@9 + 4
+####<p>Which of the following expressions is the largest?</p>16 - 218 - 319 - 420 - 2@@@@20 - 2
+####<p>Which one of the following animals is an amphibian?</p>DeerFishFrogMoose@@@@Frog
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_09.gif" width="112"/></p><p class="credit">NASA/JPL</p>EarthMarsMercuryVenus@@@@Mercury
+####<p>Which of the following is not a type of light?</p>Cosmic raysInfraredRadioUltraviolet@@@@Cosmic rays
+####<p>Which of the following is true?</p>11 × 5 > 14 × 33 × 8 > 12 × 28 × 8 > 5 × 138 × 9 > 9 × 8@@@@11 × 5 > 14 × 3
+####<p>Which of the following is true?</p>13 + 4 > 5 + 815 ÷ 3 < 10 ÷ 32 × 4 < 8 × 04 - 10 > 7 - 3@@@@13 + 4 > 5 + 8
+####<p>This is an image of...</p><p class="img"><img alt="An object in our solar system." height="150" src="/million/img/astro_03.jpg" width="308"/></p><p class="credit">NASA/JPL</p>A cometA meteorAn asteroidThe sun@@@@An asteroid
+####<p>What is the average of 21, 6 and 9?</p>123364@@@@12
+####<p>Which of the following expressions is the smallest?</p>20 ÷ 807 × 68 × 780 ÷ 20@@@@20 ÷ 80
+####<p>What number comes next?</p><p class="cen">1, 2, 4, 8, 16, 32, __</p>34485664@@@@64
+####<p>What instrument can scientists use to<br/>study very small objects?</p>MicroscopeStethoscopeTelescopeTuba@@@@Microscope
+####<p>Time can be measured with a...</p>StopwatchWatchdogWatchtowerWatchword@@@@Stopwatch
+####<p>The chemical symbol <b>S</b> represents the element...</p>CalciumNeonNickelSulfur@@@@Sulfur
+####<p>What is the product of 3 and 9?</p>-612276@@@@27
+####<p>Which number would make the statement below true?</p><p class="cen">2 × ___ = 18</p>11579@@@@9
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_06.jpg" width="150"/></p><p class="credit">NASA/JPL</p>EarthMarsMercuryVenus@@@@Earth
+####<p>What should <b>not</b> be used to fill a fire extinguisher?</p>Carbon DioxideNitrogenOxygenWater@@@@Oxygen
+####<p>Which of the following expressions is the smallest?</p>12 × 04 × 104 ÷ 38 ÷ 2@@@@12 × 0
+####<p>What number comes next?</p><p class="cen">0, 3, 6, 9, 12, 15, __</p>16171819@@@@18
+####<p>When light is absorbed by an object, where does the energy go?</p>It heats the objectIt is reflected from the objectIt makes the object floatIt passes through the object@@@@It heats the object
+####<p>Who was the second man to walk on the moon?</p>Edwin (Buzz) AldrinGary CooperMike CollinsNeil Armstrong@@@@Edwin (Buzz) Aldrin
+####<p>Which of the following expressions is the largest?</p>14 ÷ 73 × 45 × 38 ÷ 1@@@@5 × 3
+####<p>Air is an example of a...</p>GasLiquidPlasmaSolid@@@@Gas
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_04.jpg" width="150"/></p><p class="credit">NASA/JPL</p>JupiterNeptuneSaturnUranus@@@@Neptune
+####<p>Which of the following is true?</p>14 ÷ 7 < 23 ÷ 2321 ÷ 3 < 10 ÷ 34 ÷ 3 < 5 ÷ 25 ÷ 2 < 2 ÷ 5@@@@4 ÷ 3 < 5 ÷ 2
+####<p>Which of the following expressions is the largest?</p>13 - 619 - 94 - 155 - 5@@@@19 - 9
+####<p>Which of the following expressions is the largest?</p>12 + 312 + 818 + 15 + 12@@@@12 + 8
+####<p>Which of the following expressions is the largest?</p>14 + 215 + 318 + 25 + 12@@@@18 + 2
+####<p>Which number would make the statement below true?</p><p class="cen">8 + ___ = 14</p>101268@@@@6
+####<p>What is the average of 10, 14 and 9?</p>11122333@@@@11
+####<p>What is the average of 8, 12 and 10?</p>1012308@@@@10
+####<p>Which number would make the statement below true?</p><p class="cen">16 - ___ = 11</p>4568@@@@5
+####<p>What process do plants use to make food from sunlight?</p>CombustionCondensationEvaporationPhotosynthesis@@@@Photosynthesis
+####<p>The Earth goes around...</p>MarsThe moonThe sunVenus@@@@The sun
+####<p>Which one of the following animals is a mammal?</p>ButterflyFishHorseTurtle@@@@Horse
+####<p>What is the average of 4, 6 and 11?</p>1020217@@@@7
+####<p>Which of the following is true?</p>18 × 2 < 3 × 1120 × 2 < 8 × 54 × -5 < 5 × 47 × 7 < 4 × 8@@@@4 × -5 < 5 × 4
+####<p>Which of the following expressions is the smallest?</p>2 × 25 × 46 × 38 × 0@@@@8 × 0
+####<p>What number comes next?</p><p class="cen">1, -2, 4, -8, 16, -32, __</p>-56-645664@@@@64
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_05.jpg" width="155"/></p><p class="credit">NASA/JPL</p>EarthMarsMercuryVenus@@@@Mars
+####<p>In the southern hemisphere, the sun rises in the...</p>EastNorthSouthWest@@@@East
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_02.jpg" width="378"/></p><p class="credit">NASA/JPL</p>JupiterNeptuneSaturnUranus@@@@Saturn
+####<p>What is the average of 5, 8 and 2?</p>1015205@@@@5
+####<p>Yellow paint and blue paint mix to make...</p>GreenOrangePurpleRed@@@@Green
+####<p>What is the average of 6, 4 and 5?</p>15456@@@@5
+####<p>Two light bulbs are wired in parallel, as in the circuit below.<br/>If one light bulb burns out, the other light bulb will...</p><p class="img"><img alt="A circuit with two light bulbs." height="61" src="/million/img/0002.gif" width="110"/></p>Change colorFlash on and offGo outRemain lit@@@@Remain lit
+####<p>Which of the following expressions is the largest?</p>2 × 640 ÷ 250 ÷ 28 × 3@@@@50 ÷ 2
+####<p>What is at the center of our solar system?</p>New York CityThe EarthThe MoonThe Sun@@@@The Sun
+####<p>This is an image of...</p><p class="img"><img alt="An object in deep space." height="150" src="/million/img/astro_05.jpg" width="177"/></p><p class="credit">NASA/Spitzer Space Telescope</p>A cometA galaxyA nebulaAn asteroid@@@@A nebula
+####<p>What is the product of 3 and 5?</p>152358@@@@15
+####<p>Which number would make the statement below true?</p><p class="cen">24 ÷ ___ = 3</p>2468@@@@8
+####<p>Which of the following expressions is the largest?</p>10 × 345 ÷ 37 × 590 ÷ 3@@@@7 × 5
+####<p>How many natural satellites does the Earth have?</p>OneThreeTwoZero@@@@One
+####<p>Most plants absorb water through their...</p>LeavesPetalsRootsStems@@@@Roots
+####<p>Which of the following expressions is the smallest?</p>15 + 73 × 734 - 1160 ÷ 2@@@@3 × 7
+####<p>What is a list of instructions that tells<br/>a computer what to do called?</p>A computer bugA computer diskA computer keyboardA computer program@@@@A computer program
+####<p>What unit could you use to measure the length of an object?</p>CentimetersGaussKilogramsSeconds@@@@Centimeters
+####<p>What number comes next?</p><p class="cen">1, 3, 9, 27, __</p>30368190@@@@81
+####<p>Which of the following expressions is the largest?</p>11 × 13 × 35 + 59 - 4@@@@11 × 1
+####<p>Which of the following is <b>not</b> a unit of temperature?</p>CelsiusFahrenheitFaradKelvin@@@@Farad
+####<p>Which of the following expressions is the smallest?</p>2 + 32 × 45 ÷ 27 - 13@@@@7 - 13
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_03.jpg" width="114"/></p><p class="credit">NASA/JPL</p>JupiterNeptuneSaturnUranus@@@@Uranus
+####<p>What number comes next?</p><p class="cen">1, 3, 6, 10, 15, 21, __</p>27282930@@@@28
+####<p>In the visible spectrum, what color<br/>comes between yellow and blue?</p>GreenIndigoOrangeRed@@@@Green
+####<p>If one angle of a right triangle measures 20°,<br/>the other angle must measure...</p><p class="img"><img alt="A triangle with an unknown angle." height="51" src="/million/img/0001.gif" width="133"/></p>50°60°70°80°@@@@70°
+####<p>Which of the following expressions is the largest?</p>5 + 45 - 45 × 45 ÷ 4@@@@5 × 4
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_08.jpg" width="150"/></p><p class="credit">NASA/JPL</p>EarthMarsMercuryVenus@@@@Venus
+####<p>Opposite charges...</p>AttractExplodeIgnore each otherRepel@@@@Attract
+####<p>What element is an aluminum soda can made from?</p>AluminumGoldHydrogenLead@@@@Aluminum
+####<p>This is an image of...</p><p class="img"><img alt="An object in our solar system." height="150" src="/million/img/astro_01.jpg" width="155"/></p><p class="credit">NASA/JPL</p>A cometA meteorAn asteroidThe sun@@@@The sun
+####<p>The sun is an example of a...</p>GasLiquidPlasmaSolid@@@@Plasma
+####<p>What number comes next?</p><p class="cen">1, -3, 9, -27, __</p>-61-816181@@@@81
+####<p>Thunder is created by...</p>Clouds collidingClouds hitting the groundLightning heating the airSunlight hitting the top of the thunderstorm@@@@Lightning heating the air
+####<p>What is the average of 7, 14 and 12?</p>11142133@@@@11
+####<p>What do plants use pollen for?</p>To attract beesTo make people sneezeTo reproduceTo smell good@@@@To reproduce
+####<p>Which of the following is true?</p>1 ÷ 4 = 4 ÷ 1618 + 4 = 14 + 65 × 4 > 3 × 89 - 3 < 6 - 5@@@@1 ÷ 4 = 4 ÷ 16
+####<p>What is the average of 12, 18 and 0?</p>0101530@@@@10
+####<p>In the visible spectrum, what color<br/>comes between orange and green?</p>BlueIndigoRedYellow@@@@Yellow
+####<p>In the visible spectrum, what color<br/>comes between blue and yellow?</p>GreenIndigoOrangeRed@@@@Green
+####<p>What number comes next?</p><p class="cen">-1, 3, -9, 27, __</p>-61-816181@@@@-81
+####<p>Which of the following expressions is the smallest?</p>1 ÷ 22 × 13 + 94 - 3@@@@1 ÷ 2
+####<p>Which number would make the statement below true?</p><p class="cen">27 ÷ ___ = 9</p>12369@@@@3
+####<p>Which planet is closest to the sun?</p>EarthMercuryPlutoVenus@@@@Mercury
+####<p>What device do scientists use to measure humidity?</p>BarometerHygrometerThermometerWeather vane@@@@Hygrometer
+####<p>What unit could you use to measure<br/>the temperature of an object?</p>FaradHenryKelvinTesla@@@@Kelvin
+####<p>In the northern hemisphere, the sun sets in the...</p>EastNorthSouthWest@@@@West
+####<p>Red light and blue light are different colors because<br/>the light that makes them up has different...</p>AmplitudesIntensitiesVelocitiesWavelengths@@@@Wavelengths
+####<p>The central part of the atom is called the...</p>CellElectronNucleusSun@@@@Nucleus
+####<p>Which of the following expressions is the smallest?</p>3 - 54 - 85 - 38 - 4@@@@4 - 8
+####<p>Applying a force through a distance is known as...</p>Chemical ReactionPotential EnergyPowerWork@@@@Work
+####<p>The group of organs that move blood, oxygen and<br/>nutrients around your body is called the...</p>Circulatory systemDigestive systemRespiratory systemSkeletal system@@@@Circulatory system
+####<p>What is a hypothesis?</p>A very low body temperatureAn educated guess as to the outcome of an experimentAn injury to the knee jointThe side of a triangle opposite a right angle@@@@An educated guess as to the outcome of an experiment
+####<p>The chemical symbol <b>C</b> represents the element...</p>CarbonFluorineHeliumNitrogen@@@@Carbon
+####<p>Which of the following is true?</p>17 - 9 = 12 - 34 - 8 = 2 - 66 - 9 = 7 - 49 - 4 = 12 - 6@@@@4 - 8 = 2 - 6
+####<p>In the northern hemisphere, the sun rises in the...</p>EastNorthSouthWest@@@@East
+####<p>In the visible spectrum, what color<br/>comes between green and indigo?</p>BlueOrangeRedYellow@@@@Blue
+####<p>This is an image of...</p><p class="img"><img alt="An object in deep space." height="150" src="/million/img/astro_04.jpg" width="187"/></p><p class="credit">NASA/Hubble Space Telescope</p>A cometA galaxyA nebulaAn asteriod@@@@A galaxy
+####<p>In which organelle does photosynthesis take place?</p>ChlorophyllChloroplastsMitochondriaRibosomes@@@@Chloroplasts
+####<p>In Albert Einstein's famous formula, E = mc<sup>2</sup>,<br/>what does the letter <b>E</b> represent?</p>EinsteinEllipseEnergyEverything@@@@Energy
+####<p>Geologists are scientists that mainly study...</p>ClothingComputer gamesMusicThe structure of the Earth@@@@The structure of the Earth
+####<p>Which number would make the statement below true?</p><p class="cen">6 + ___ = 7</p>11148@@@@1
+####<p>Like charges...</p>AttractExplodeIgnore each otherRepel@@@@Repel
+####<p>Which of the following is true?</p>0 ÷ 5 = 0 ÷ 918 ÷ 9 = 21 ÷ 75 ÷ 10 = 6 ÷ 38 ÷ 1 = 4 ÷ 2@@@@0 ÷ 5 = 0 ÷ 9
+####<p>In the visible spectrum, what color<br/>comes between yellow and red?</p>BlueGreenIndigoOrange@@@@Orange
+####<p>Electrons carry what kind of electrical charge?</p>NegativeNeutralPositivePurple@@@@Negative
+####<p>Who was the first man to walk on the moon?</p>Edwin (Buzz) AldrinGary CooperMike CollinsNeil Armstrong@@@@Neil Armstrong
+####<p>How many hydrogen atoms are in a molecule<br/>of sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?</p>1247@@@@2
+####<p>Which number would make the statement below true?</p><p class="cen">8 - ___ = 3</p>11135@@@@5
+####<p>Which one of the following numbers is a factor of 100?</p>20406080@@@@20
+####<p>Which organelle produces proteins?</p>ChlorophyllChloroplastsMitochondriaRibosomes@@@@Ribosomes
+####<p>In the metric system, how many nanoseconds<br/>are needed to make one second?</p>1,0001,000,0001,000,000,0001,000,000,000,000@@@@1,000,000,000
+####<p>How many hydrogen atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O)?</p>1012220@@@@20
+####<p>Which of the following is <b>not</b> part of the scientific method?</p>Falsifying the dataForming a conclusionForming a hypothesisIdentifying the problem@@@@Falsifying the data
+####<p>The layer of gases that surround the Earth is called the...</p>AtmosphereBiosphereHydrosphereIonosphere@@@@Atmosphere
+####<p>White light is made up of...</p>All colorsGreen light onlyRed light onlyYellow light only@@@@All colors
+####<p>In the visible spectrum, what color<br/>comes between indigo and green?</p>BlueOrangeRedYellow@@@@Blue
+####<p>How many continents does the Earth have?</p>FiveFourSevenSix@@@@Seven
+####<p>Which of the following expressions is the largest?</p>1 - 2216 + 419 ÷ 16 × 3@@@@16 + 4
+####<p>The group of organs that take in oxygen<br/>from the air is called the...</p>Circulatory systemDigestive systemRespiratory systemSkeletal system@@@@Respiratory system
+####<p>In the metric system, how many picoseconds<br/>are needed to make one second?</p>1,0001,000,0001,000,000,0001,000,000,000,000@@@@1,000,000,000,000
+####<p>What is the volume of a cube that measures<br/>2 meters on a side?</p>2 cubic meters4 cubic meters6 cubic meters8 cubic meters@@@@8 cubic meters
+####<p>Physicist are scientists that mainly study...</p>BooksPhysical fitnessPlantsThe interaction of matter and energy@@@@The interaction of matter and energy
+####<p>Which of the following is true?</p>13 ÷ 2 < 8 - 314 + 11 > 5 × 519 + 2 = 63 ÷ 36 × 3 < 6 + 3@@@@19 + 2 = 63 ÷ 3
+####<p>Using the scientific method, when does a<br/>scientist test a hypothesis?</p>During the conclusionDuring the data analysisDuring the experimentDuring the research@@@@During the experiment
+####<p>Neutrons carry what kind of electrical charge?</p>NegativeNeutralPositivePurple@@@@Neutral
+####<p>In the metric system, how many microseconds<br/>are needed to make one second?</p>1,0001,000,0001,000,000,0001,000,000,000,000@@@@1,000,000
+####<p>In the metric system, how many grams<br/>are needed to make one kilogram?</p>1,0001010,000100@@@@1,000
+####<p>In the metric system, how many millimeters<br/>are needed to make a meter?</p>1,0001010,000100@@@@1,000
+####<p>Which of the following expressions is the largest?</p>2 + 42 × 321 ÷ 39 - 3@@@@21 ÷ 3
+####<p>Two light bulbs are wired in series, as in the circuit below.<br/>If one light bulb burns out, the other light bulb will...</p><p class="img"><img alt="A circuit with two light bulbs." height="74" src="/million/img/0003.gif" width="110"/></p>Change colorFlash on and offGo outRemain lit@@@@Go out
+####<p>Quarks are particles found inside...</p>Electrons and NeutrinosElectrons and PositronsPhotonsProtons and Neutrons@@@@Protons and Neutrons
+####<p>What is the shape of the Earth's orbit?</p>CircularEllipticalHyperbolicParabolic@@@@Elliptical
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>c</b> represent?</p>The force of gravityThe size of an atomThe speed of lightThe temperature in degrees Celsius@@@@The speed of light
+####<p>What is the average of 14, 17 and 5?</p>12141721@@@@12
+####<p>How many oxygen atoms are in<br/>a molecule of water (H<sub>2</sub>O)?</p>1234@@@@1
+####<p>The coordinate (2,-3) is found in which quadrant<br/>of the Cartesian plane?</p>IIIIIIIV@@@@IV
+####<p>Which of the following expressions is the smallest?</p>-3 Ã— -4-5 Ã· 3-8 + 121 - 12@@@@1 - 12
+####<p>How many carbon atoms are in a molecule<br/>of calcium carbonate (CaCO<sub>3</sub>)?</p>1234@@@@1
+####<p>What device do scientists use to tell wind direction?</p>BarometerHygrometerThermometerWeather vane@@@@Weather vane
+####<p>How many calcium atoms are in a molecule<br/>of calcium carbonate (CaCO<sub>3</sub>)?</p>1234@@@@1
+####<p>In the metric system, how many centimeters<br/>are needed to make one meter?</p>1101001000@@@@100
+####<p>The group of organs that extract nutrients from food<br/>for your body to use is called the...</p>Circulatory systemDigestive systemRespiratory systemSkeletal system@@@@Digestive system
+####<p>This is an image of...</p><p class="img"><img alt="An object in our solar system." height="150" src="/million/img/astro_02.jpg" width="260"/></p><p class="credit">Steve Gagnon</p>A cometA meteorAn asteroidThe sun@@@@A comet
+####<p>Which number would make the statement below true?</p><p class="cen">8 Ã· ___ = 1</p>1248@@@@8
+####<p>Light hits an object and bounces off of it. This is called...</p>AbsorptionConductionReflectionTransmission@@@@Reflection
+####<p>Which of the following can be picked up with a magnet?</p>A copper pennyA wooden toothpickAn aluminum canAn iron nail@@@@An iron nail
+####<p>At what temperature does water boil?</p>0Â° Celsius100 Kelvin100Â° Celsius100Â° Fahrenheit@@@@100Â° Celsius
+####<p>How many boron atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>10247@@@@4
+####<p>On the graph below, which point is located at (-4, 2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>ADEH@@@@D
+####<p>In the metric system, how many milligrams<br/>are needed to make a gram?</p>1,0001010,000100@@@@1,000
+####<p>Which one of the following is a good electrical insulator?</p>CopperGoldRubberSilver@@@@Rubber
+####<p>Which of the following expressions is the largest?</p>2 Ã— 43 Ã— 35 Ã— 28 Ã— 1@@@@5 Ã— 2
+####<p>How many sulfur atoms are in a molecule<br/>of sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?</p>1247@@@@1
+####<p>On the graph below, which point is located at (2, 4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>BCFG@@@@B
+####<p>In the visible spectrum, what color<br/>comes between red and yellow?</p>BlueGreenIndigoOrange@@@@Orange
+####<p>How many oxygen atoms are in a molecule<br/>of carbon dioxide (CO<sub>2</sub>)?</p>1234@@@@2
+####<p>In the visible spectrum, what color<br/>comes between blue and violet?</p>GreenIndigoOrangeYellow@@@@Indigo
+####<p>Dry ice is frozen...</p>Carbon dioxideHeliumOxygenWater@@@@Carbon dioxide
+####<p>How many elements are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>14435@@@@4
+####<p>What is the half-life of a radioactive substance if it takes<br/>6 hours for 75% of it to decay?</p>12 hours3 hours6 hours9 hours@@@@3 hours
+####<p>How many atoms are in<br/>a molecule of water (H<sub>2</sub>O)?</p>1234@@@@3
+####<p>In the metric system, how many meters are<br/>needed to make one kilometer?</p>1101001000@@@@1000
+####<p>How many atoms are in<br/>a molecule of ozone (O<sub>3</sub>)?</p>1234@@@@3
+####<p>On the graph below, which point is located at (2, -4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>EFGH@@@@G
+####<p>Your elbow is an example of a...</p>Ball and socket jointFixed jointHinge jointPivot joint@@@@Hinge joint
+####<p>How many elements are in a molecule<br/>of calcium carbonate (CaCO<sub>3</sub>)?</p>2345@@@@3
+####<p>Which of the following expressions is the largest?</p>10 Ã— 118 - 622 Ã· 24 + 7@@@@18 - 6
+####<p>The coordinate (-2,-3) is found in which quadrant<br/>of the Cartesian plane?</p>IIIIIIIV@@@@III
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">CH<sub>4</sub> + H<sub>2</sub>O â†’ CO + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@3
+####<p>Which organelle is the 'powerhouse' of the cell?</p>ChlorophyllChloroplastsMitochondriaRibosomes@@@@Mitochondria
+####<p>In the visible spectrum, what color<br/>comes between violet and blue?</p>GreenIndigoOrangeYellow@@@@Indigo
+####<p>Of the following, which element has the most protons?</p>ArgonChlorineKryptonNitrogen@@@@Krypton
+####<p>How many degrees are in a circle?</p>180Â°270Â°360Â°90Â°@@@@360Â°
+####<p>What has to be taken away to change water into ice?</p>DirtHeatLightSalt@@@@Heat
+####<p>In the visible spectrum, what color<br/>comes between green and orange?</p>BlueIndigoRedYellow@@@@Yellow
+####<p>Your shoulder is an example of a...</p>Ball-and-socket jointFixed jointHinge jointPivot joint@@@@Ball-and-socket joint
+####<p>H<sub>2</sub>O is commonly known as...</p>ChalkGoldLeadWater@@@@Water
+####<p>How many oxygen atoms are in a molecule<br/>of calcium carbonate (CaCO<sub>3</sub>)?</p>1234@@@@3
+####<p>How many atoms are in a molecule<br/>of sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?</p>1237@@@@7
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">Zn + 2HCl â†’ <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>ZnCl<sub>2</sub> + H<sub>2</sub></p>1234@@@@1
+####<p>For a fire to burn it needs to have heat, fuel and...</p>MarshmallowsOxygenPermissionWater@@@@Oxygen
+####<p>How many elements are in a molecule<br/>of carbon dioxide (CO<sub>2</sub>)?</p>1234@@@@2
+####<p>The rate at which work is done is known as...</p>ForceFrictionPowerWork@@@@Power
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=2 and y=-3." height="236" src="/million/img/grid_03.gif" width="232"/></p>(-3, 2)(2, -3)(2, 3)(3, 2)@@@@(2, -3)
+####<p>Of the following, which element has the fewest protons?</p>BerylliumHeliumHydrogenLithium@@@@Hydrogen
+####<p>In the metric system, how many milliseconds<br/>are needed to make one second?</p>1,0001,000,0001,000,000,0001,000,000,000,000@@@@1,000
+####<p>Of the following, which element has the fewest protons?</p>AluminumCarbonOxygenSodium@@@@Carbon
+####<p>Which of the following is true?</p>2 Ã— 3 > 4 Ã— 24 Ã— 4 < 4 Ã· 45 - 3 = 3 - 58 - 7 < 8 + 7@@@@8 - 7 < 8 + 7
+####<p>What device do scientists use to measure temperature?</p>BarometerHygrometerThermometerWeather vane@@@@Thermometer
+####<p>Of the following, which element has the fewest protons?</p>CalciumNeonSiliconSulfur@@@@Neon
+####<p>If the half-life of a radioactive substance is 10 hours,<br/>how long will it take for 75% of it to decay?</p>10 hours15 hours20 hours5 hours@@@@20 hours
+####<p>Chemists are scientists that mainly study...</p>Chemicals and chemical reactionsHurricanesPlanetary motionTornadoes@@@@Chemicals and chemical reactions
+####<p>On the graph below, what is the coordinate of point D?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_02.gif" width="232"/></p>(-4, 0)(0, -4)(0, 4)(4, 0)@@@@(0, -4)
+####<p>Most birds are covered with...</p>FeathersHairLeavesScales@@@@Feathers
+####<p>What is the variable that is changed on purpose in a scientific experiment called?</p>Dependent variableIndependent variableOscillating variableSteady variable@@@@Independent variable
+####<p>What is the half-life of a radioactive substance if it takes<br/>6 hours for 50% of it to decay?</p>12 hours3 hours6 hours9 hours@@@@6 hours
+####<p>Which planet is this?</p><p class="img"><img alt="A planet in our solar system." height="150" src="/million/img/planet_07.jpg" width="150"/></p><p class="credit">NASA/JPL</p>EarthMarsMercuryVenus@@@@Venus
+####<p>The coordinate (2,3) is found in which quadrant<br/>of the Cartesian plane?</p>IIIIIIIV@@@@I
+####<p>What is the maximum number of electrons<br/>that can fit in an atom's fifth energy level?</p>182508@@@@50
+####<p>Quarks are held to each other by particles called...</p>ElectronsGluonsPhotonsProtons@@@@Gluons
+####<p>Which of the following is true?</p>12 + 5 > 6 + 918 + 14 > 21 + 123 + 5 > 8 + 118 + 2 > 7 + 3@@@@12 + 5 > 6 + 9
+####<p>Light hits an object and passes through it. This is called...</p>AbsorptionConductionReflectionTransmission@@@@Transmission
+####<p>Which number would make the statement below true?</p><p class="cen">4 Ã— ___ = 44</p>112248@@@@11
+####<p>What device do scientists use to measure air pressure?</p>BarometerHygrometerThermometerWeather vane@@@@Barometer
+####<p>Which of the following can you use<br/>to build an electromagnet?</p>String, a popsicle stick and a pennyString, an iron nail and a batteryWire, a popsicle stick and a batteryWire, an iron nail and a battery@@@@Wire, an iron nail and a battery
+####<p>All isotopes of the element iron contain...</p>26 protons30 neutrons30 protons56 protons@@@@26 protons
+####<p>Which of these scientists does <b>not</b> have<br/>an element named for them?</p>Albert EinsteinBill NyeEnrico FermiLise Meitner@@@@Bill Nye
+####<p>During which stage of mitosis do chromosomes<br/>align along the middle of the parent cell?</p>AnaphaseMetaphaseProphaseTelophase@@@@Metaphase
+####<p>An angle that is greater than 90Â° but<br/>less than 180Â° is called...</p>A right angleAn acute angleAn obtuse angleThe hypotenuse@@@@An obtuse angle
+####<p>What is the largest planet in our solar system?</p>EarthJupiterNeptuneSaturn@@@@Jupiter
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=-2 and y=3." height="236" src="/million/img/grid_05.gif" width="232"/></p>(-2, -3)(-2, 3)(-3, -2)(3, -2)@@@@(-2, 3)
+####<p>What process do scientists use to help them<br/>find the answers to questions?</p>The magic 8 ball methodThe psychic hotline methodThe scientific methodThe throw a dart method@@@@The scientific method
+####<p>Which of the following expressions is the smallest?</p>10 Ã· 33 Ã— -13 Ã— 03 Ã· 10@@@@3 Ã— -1
+####<p>How many hydrogen atoms are in<br/>a molecule of water (H<sub>2</sub>O)?</p>1234@@@@2
+####<p>Dark spots seen on the sun are called...</p>SunfrecklesSunglassesSunsplotchesSunspots@@@@Sunspots
+####<p>Which of the following is true?</p>11 - 4 > 2 - 913 - 11 > 23 - 1814 - 7 > 8 - 15 - 17 > 13 - 5@@@@11 - 4 > 2 - 9
+####<p>On the graph below, which point is located at (4, -2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>ADEH@@@@H
+####<p>What are the two main gases in the Earth's atmosphere?</p>Argon and oxygenHelium and oxygenHydrogen and oxygenNitrogen and oxygen@@@@Nitrogen and oxygen
+####<p>On the graph below, which point is located at (4, 0)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_02.gif" width="232"/></p>ABCD@@@@A
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">SO<sub>2</sub> + Br<sub>2</sub> + 2H<sub>2</sub>O â†’ <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>HBr + H<sub>2</sub>SO<sub>4</sub></p>1234@@@@2
+####<p>How much of the Earth's atmosphere is nitrogen?</p>48%58%68%78%@@@@78%
+####<p>On the graph below, which point is located at (2, -4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>BCFG@@@@G
+####<p>What unit could you use to measure the power<br/>generated by an object?</p>JoulesKilogramsNewtonsWatts@@@@Watts
+####<p>How many 60 Watt light bulbs can be lit<br/>with a 300 Watt generator?</p>18,00033605@@@@5
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=3 and y=2." height="236" src="/million/img/grid_02.gif" width="232"/></p>(-3, 2)(2, -3)(2, 3)(3, 2)@@@@(3, 2)
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">AlCl<sub>3</sub> + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>NaOH â†’ Al(OH)<sub>3</sub> + 3NaCl</p>1234@@@@3
+####<p>Biologists are scientists that mainly study...</p>Living organismsRocksThe sunThe weather@@@@Living organisms
+####<p>What is the product of the binary numbers 0110 and 0011?</p>01111100001000110010@@@@10010
+####<p>On the graph below, which point is located at (-2, 4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>ABCD@@@@C
+####<p>What year did man first walk on the moon?</p>1969197919891999@@@@1969
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>c</b> represent?</p>The force of gravityThe size of an atomThe speed of lightThe temperature in degrees Celsius@@@@The speed of light
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">2Ag + 2HNO<sub>3</sub> â†’ 2AgNO<sub>3</sub> + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@1
+####<p>Which of the four fundamental forces of nature is responsible<br/>for keeping the earth in orbit about the sun?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@Gravity
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen"><img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>NO + O<sub>2</sub> â†’ 2NO<sub>2</sub></p>1234@@@@2
+####<p>On the graph below, which point is located at (0, 4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_02.gif" width="232"/></p>ABCD@@@@B
+####<p>On the graph below, which point is located at (-2, 4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>BCFG@@@@C
+####<p>Of the following, which element has the most protons?</p>CalciumNeonSiliconSulfur@@@@Calcium
+####<p>On the graph below, what is the coordinate of point C?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_02.gif" width="232"/></p>(-4, 0)(0, -4)(0, 4)(4, 0)@@@@(-4, 0)
+####<p>Of the following, which element has the fewest protons?</p>ArgonChlorineKryptonNitrogen@@@@Nitrogen
+####<p>Of the following, which element has the most protons?</p>HeliumMercuryNitrogenUranium@@@@Uranium
+####<p>What property of matter opposes the flow of electricity?</p>CapacitanceConductanceReflectanceResistance@@@@Resistance
+####<p>Pencil lead is actually a form of...</p>AluminumCarbonGoldLead@@@@Carbon
+####<p>NaCl is the chemical formula for...</p>ChalkSugarTable saltWater@@@@Table salt
+####<p>What is the sum of the binary numbers 1001 and 1010?</p>10010100111010111001@@@@10011
+####<p>How many elements are in<br/>a molecule of ozone (O<sub>3</sub>)?</p>1234@@@@1
+####<p>How many quarks are in a proton?</p>FourOneThreeTwo@@@@Three
+####<p>Which of the four fundamental forces of nature is responsible<br/>for binding quarks to one another?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@The strong force
+####<p>Which of the following expressions is the smallest?</p>-3 Ã— -4-5 Ã· 3-8 + 121 - 12@@@@1 - 12
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=4 and y=0." height="236" src="/million/img/grid_10.gif" width="232"/></p>(-4, 0)(0, -4)(0, 4)(4, 0)@@@@(4, 0)
+####<p>How much of a radioactive substance remains<br/>after 15 hours if its half-life is 5 hours?</p>12.5%25%50%6.25%@@@@12.5%
+####<p>How much of a radioactive substance remains<br/>after 5 hours if its half-life is 5 hours?</p>12.5%25%50%6.25%@@@@50%
+####<p>Which of the following expressions is the smallest?</p>10 Ã· 33 Ã— -13 Ã— 03 Ã· 10@@@@3 Ã— -1
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=-4 and y=0." height="236" src="/million/img/grid_09.gif" width="232"/></p>(-4, 0)(0, -4)(0, 4)(4, 0)@@@@(-4, 0)
+####<p>How many oxygen atoms are in a molecule<br/>of sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?</p>1247@@@@4
+####<p>How many degrees are in a circle?</p>180Â°270Â°360Â°90Â°@@@@360Â°
+####<p>On the graph below, which point is located at (-4, -2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>EFGH@@@@E
+####<p>On the graph below, which point is located at (4, 2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>ADEH@@@@A
+####<p>How much of the Earth's atmosphere is oxygen?</p>11%21%31%41%@@@@21%
+####<p>A 90Â° angle is also called...</p>A right angleAn acute angleAn obtuse angleThe hypotenuse@@@@A right angle
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>m</b> represent?</p>MarsMassMetersMice@@@@Mass
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">CO + H<sub>2</sub>O â†’ CO<sub>2</sub> + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@1
+####<p>Of the following, which element has the fewest protons?</p>CalciumGoldLithiumOxygen@@@@Lithium
+####<p>Which of the following expressions is the largest?</p>10 Ã— 118 - 622 Ã· 24 + 7@@@@18 - 6
+####<p>At what temperature does water boil?</p>0 Kelvin0Â° Celsius0Â° Fahrenheit212Â° Fahrenheit@@@@212Â° Fahrenheit
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=-2 and y=-3." height="236" src="/million/img/grid_07.gif" width="232"/></p>(-2, -3)(-2, 3)(-3, -2)(3, -2)@@@@(-2, -3)
+####<p>Which number would make the statement below true?</p><p class="cen">8 Ã· ___ = 1</p>1248@@@@8
+####<p>What is another name for the aurora borealis?</p>Bright lightsFlashing lightsNorthern lightsSouthern lights@@@@Northern lights
+####<p>32Â° Fahrenheit is the same temperature as...</p>0 Kelvin0Â° Celsius100 Kelvin100Â° Celsius@@@@0Â° Celsius
+####<p>How many atoms are in a molecule<br/>of carbon dioxide (CO<sub>2</sub>)?</p>1234@@@@3
+####<p>Of the following, which element has the most protons?</p>AluminumCarbonOxygenSodium@@@@Aluminum
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">CH<sub>4</sub> + H<sub>2</sub>O â†’ CO + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@3
+####<p>Who was the first person to orbit the Earth?</p>Alan ShepardJohn GlennSally RideYuri Gagarin@@@@Yuri Gagarin
+####<p>Of the following, which element has the most protons?</p>CalciumGoldLithiumOxygen@@@@Gold
+####<p>At what temperature does water boil?</p>0Â° Celsius100 Kelvin100Â° Celsius100Â° Fahrenheit@@@@100Â° Celsius
+####<p>High resolution images of Phoebe, an outer satellite of<br/>the planet Saturn, were obtained by which spacecraft?</p><p class="img"><img alt="A close-up image of the satellite Phoebe." height="205" src="/million/img/PIA06073.jpg" width="290"/></p><p class="credit">NASA/JPL</p>CassiniHubble Space TelescopeVoyager IVoyager II@@@@Cassini
+####<p>Which number would make the statement below true?</p><p class="cen">12 - ___ = 9</p>2358@@@@3
+####<p>An angle that is greater than 0Â° but<br/>less than 90Â° is called...</p>A right angleAn acute angleAn obtuse angleThe hypotenuse@@@@An acute angle
+####<p>How many quarks are in a neutron?</p>FourOneThreeTwo@@@@Three
+####<p>Meteorologists are scientists that mainly study...</p>CometsMeteorsSkateboardsThe weather@@@@The weather
+####<p>Which of the following expressions is the smallest?</p>12 Ã· 320 Ã· 56 Ã· 38 Ã· 2@@@@6 Ã· 3
+####<p>Which number would make the statement below true?</p><p class="cen">8 Ã· ___ = 1</p>1248@@@@8
+####<p>How many carbon atoms are in a molecule<br/>of carbon dioxide (CO<sub>2</sub>)?</p>1234@@@@1
+####<p>Which one of the following is a good<br/>conductor of electricity?</p>CopperCottonPaperWood@@@@Copper
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen"><img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>K + 2H<sub>2</sub>O â†’ 2KOH + H<sub>2</sub></p>1234@@@@2
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">CH<sub>4</sub> + H<sub>2</sub>O â†’ CO + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@3
+####<p>How many degrees are in a circle?</p>180Â°270Â°360Â°90Â°@@@@360Â°
+####<p>At what temperature does water boil?</p>0 Kelvin0Â° Celsius0Â° Fahrenheit212Â° Fahrenheit@@@@212Â° Fahrenheit
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen"><img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>K + 2H<sub>2</sub>O â†’ 2KOH + H<sub>2</sub></p>1234@@@@2
+####<p>1*10<sup>-6</sup> is another way to write the number...</p>.000001.0001.011@@@@.000001
+####<p>Of the following, which element has the most protons?</p>BerylliumHeliumHydrogenLithium@@@@Beryllium
+####<p>Which number would make the statement below true?</p><p class="cen">4 Ã— ___ = 44</p>112248@@@@11
+####<p>How many oxygen atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>1017277@@@@17
+####<p>All isotopes of the element lead contain...</p>82 neutrinos82 neutrons82 protons82 quarks@@@@82 protons
+####<p>All isotopes of the element copper contain...</p>27 protons29 protons59 protons64 protons@@@@29 protons
+####<p>On the graph below, which point is located at (-4, 2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>ABCD@@@@D
+####<p>Which of the following expressions is the smallest?</p>-3 Ã— -4-5 Ã· 3-8 + 121 - 12@@@@1 - 12
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>c</b> represent?</p>The force of gravityThe size of an atomThe speed of lightThe temperature in degrees Celsius@@@@The speed of light
+####<p>At what temperature does water boil?</p>0 Kelvin0Â° Celsius0Â° Fahrenheit212Â° Fahrenheit@@@@212Â° Fahrenheit
+####<p>Astronomers are scientists that mainly study...</p>CheeseFine artLiteratureStars, planets and other objects in space@@@@Stars, planets and other objects in space
+####<p>The neutron was discovered by...</p>Albert EinsteinErnest RutherfordJ.J. ThomsonJames Chadwick@@@@James Chadwick
+####<p>An atom of hydrogen is made up of...</p>One proton and one electronOne proton and one neutronOne proton and two electronsTwo protons and one electron@@@@One proton and one electron
+####<p>Which of the following expressions is the largest?</p>2 Ã— 43 Ã— 35 Ã— 28 Ã— 1@@@@5 Ã— 2
+####<p>A molecule of C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> contains...</p>11 atoms of osmium12 atoms of carbon12 atoms of hydrogen22 atoms of oxygen@@@@12 atoms of carbon
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=0 and y=4." height="236" src="/million/img/grid_12.gif" width="232"/></p>(-4, 0)(0, -4)(0, 4)(4, 0)@@@@(0, 4)
+####<p>How many boron atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>10247@@@@4
+####<p>Which number would make the statement below true?</p><p class="cen">2 + ___ = 10</p>1358@@@@8
+####<p>On the graph below, which point is located at (4, -2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>EFGH@@@@H
+####<p>The Cassini spacecraft was sent to study which planet?</p>JupiterMarsNeptuneSaturn@@@@Saturn
+####<p>The chemical symbol for the element lead is...</p>LaPbPdPo@@@@Pb
+####<p>What is the maximum number of electrons<br/>that can fit in an atom's first energy level?</p>12248@@@@2
+####<p>Protons carry what kind of electrical charge?</p>NegativeNeutralPositivePurple@@@@Positive
+####<p>How many element are in a molecule<br/>of sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)?</p>1237@@@@3
+####<p>On the graph below, which point is located at (-4, -2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>ADEH@@@@E
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=-3 and y=2." height="236" src="/million/img/grid_04.gif" width="232"/></p>(-3, 2)(2, -3)(2, 3)(3, 2)@@@@(-3, 2)
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>m</b> represent?</p>MarsMassMetersMice@@@@Mass
+####<p>Of the following, which element has the fewest protons?</p>HeliumMercuryNitrogenUranium@@@@Helium
+####<p>The robotic rover 'Opportunity' was used to<br/>explore the surface of which planet?</p>EarthJupiterMarsSaturn@@@@Mars
+####<p>What are comets made from?</p>Frozen gases, ice and dustSmelly socksSnakes, snails and puppy dog tailsSugar, spice and everything nice@@@@Frozen gases, ice and dust
+####<p>At what temperature does water boil?</p>0Â° Celsius100 Kelvin100Â° Celsius100Â° Fahrenheit@@@@100Â° Celsius
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">2Al + 3Cl<sub>2</sub> â†’ <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>AlCl<sub>3</sub></p>1234@@@@2
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">SO<sub>2</sub> + Br<sub>2</sub> + 2H<sub>2</sub>O â†’ <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>HBr + H<sub>2</sub>SO<sub>4</sub></p>1234@@@@2
+####<p>Which of these scientists has an element named for them?</p>J.J. ThomsonJames ChadwickJonas SalkNiels Bohr@@@@Niels Bohr
+####<p>On the graph below, which point is located at (-2, -4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>BCFG@@@@F
+####<p>Which of the following expressions is the smallest?</p>10 Ã· 33 Ã— -13 Ã— 03 Ã· 10@@@@3 Ã— -1
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=0 and y=-4." height="236" src="/million/img/grid_11.gif" width="232"/></p>(-4, 0)(0, -4)(0, 4)(4, 0)@@@@(0, -4)
+####<p>Which of the following is true?</p>18 + 23 < 28 + 142 + 1 < 1 + 123 + 5 < 9 + 147 + 2 < 3 + 5@@@@18 + 23 < 28 + 14
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>c</b> represent?</p>The force of gravityThe size of an atomThe speed of lightThe temperature in degrees Celsius@@@@The speed of light
+####<p>How many boron atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>10247@@@@4
+####<p>At what temperature does water boil?</p>0 Kelvin0Â° Celsius0Â° Fahrenheit212Â° Fahrenheit@@@@212Â° Fahrenheit
+####<p>A proton is made of...</p>Chocolate chipsOne 'up' quark and one 'down' quarkOne 'up' quark and two 'down' quarksTwo 'up' quarks and one 'down' quark@@@@Two 'up' quarks and one 'down' quark
+####<p>Which of the four fundamental forces of nature is responsible<br/>for keeping you on the earth's surface?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@Gravity
+####<p>How many neutrons are in the nucleus of an atom of lead?</p>105115125135@@@@125
+####<p>Which of the following is true?</p>13 + 5 = 9 + 94 + 12 = 15 + 24 + 19 = 15 + 78 + 3 = 9 + 1@@@@13 + 5 = 9 + 9
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=-3 and y=-2." height="236" src="/million/img/grid_08.gif" width="232"/></p>(-2, -3)(-2, 3)(-3, -2)(3, -2)@@@@(-3, -2)
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">2Li + 2H<sub>2</sub>O â†’ 2LiOH + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@1
+####<p>Which of the following expressions is the largest?</p>2 Ã— 43 Ã— 35 Ã— 28 Ã— 1@@@@5 Ã— 2
+####<p>How many boron atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>10247@@@@4
+####<p>On the graph below, which point is located at (-2, -4)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>EFGH@@@@F
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">Ni + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>CO â†’ Ni(CO)<sub>4</sub></p>1234@@@@4
+####<p>How many sodium atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>1323043@@@@2
+####<p>212Â° Fahrenheit is the same temperature as...</p>0 Kelvin0Â° Celsius100 Kelvin100Â° Celsius@@@@100Â° Celsius
+####<p>Oceanographers are scientists that mainly study...</p>The cloudsThe forestThe mountainsThe oceans@@@@The oceans
+####<p>Which of the four fundamental forces of nature is responsible<br/>for holding the atom's nucleus together?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@The strong force
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">SO<sub>2</sub> + Br<sub>2</sub> + 2H<sub>2</sub>O â†’ <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>HBr + H<sub>2</sub>SO<sub>4</sub></p>1234@@@@2
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>c</b> represent?</p>The force of gravityThe size of an atomThe speed of lightThe temperature in degrees Celsius@@@@The speed of light
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">Zn + 2HCl â†’ <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>ZnCl<sub>2</sub> + H<sub>2</sub></p>1234@@@@1
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">4HgS + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>CaO â†’ 4Hg + 3CaS + CaSO<sub>4</sub></p>2345@@@@4
+####<p>Which one of the following is <b>NOT</b> the name of a quark?</p>BelowCharmStrangeUp@@@@Below
+####<p>How many oxygen atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>1017277@@@@17
+####<p>Which of the four fundamental forces of nature is the strongest?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@The strong force
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">Mg(OH)2 + 2HCl â†’ MgCl<sub>2</sub> + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub>O</p>1234@@@@2
+####<p>Who discovered Jupiter's four largest satellites?</p>Galileo GalileiJohannes KeplerSir Issac NewtonTyco Brahe@@@@Galileo Galilei
+####<p>On the graph below, which point is located at (-4, 0)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_02.gif" width="232"/></p>ABCD@@@@C
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">CH<sub>4</sub> + H<sub>2</sub>O â†’ CO + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@3
+####<p>How many atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>13163343@@@@43
+####<p>Water forms on the outside of a cold glass on<br/>a humid day because of...?</p>A crack in the glassCondensationEvaporationRadiation@@@@Condensation
+####<p>At what temperature does water boil?</p>0 Kelvin0Â° Celsius0Â° Fahrenheit212Â° Fahrenheit@@@@212Â° Fahrenheit
+####<p>If a square has a perimeter of 16 cm, what is its area?</p>12 cm216 cm224 cm24 cm2@@@@16 cm2
+####<p>32Â° Fahrenheit is the same temperature as...</p>0 Kelvin0Â° Celsius100 Kelvin100Â° Celsius@@@@0Â° Celsius
+####<p>How many atoms are in a molecule<br/>of calcium carbonate (CaCO<sub>3</sub>)?</p>2345@@@@5
+####<p>What is the coordinate of the point plotted on the grid below?</p><p class="img"><img alt="A grid with a point plotted at x=3 and y=-2." height="236" src="/million/img/grid_06.gif" width="232"/></p>(-2, -3)(-2, 3)(-3, -2)(3, -2)@@@@(3, -2)
+####<p>If the half-life of a radioactive substance is 5 hours,<br/>how long will it take for 87.5% of it to decay?</p>10 hours15 hours20 hours5 hours@@@@15 hours
+####<p>The nucleus was discovered by...</p>Albert EinsteinErnest RutherfordJ.J. ThomsonJames Chadwick@@@@Ernest Rutherford
+####<p>The chemical symbol for the element tin is...</p>InSnTiTm@@@@Sn
+####<p>Which cloud shrouded planet did the Magellan<br/>spacecraft map with radar?</p>EarthJupiterSaturnVenus@@@@Venus
+####<p>What is your average speed if you can travel<br/>100 kilometers in 2 hours?</p>102 kilometers per hour200 kilometers per hour50 kilometers per hour98 kilometers per hour@@@@50 kilometers per hour
+####<p>Which number would make the statement below true?</p><p class="cen">8 Ã— ___ = 56</p>6789@@@@7
+####<p>What scientist is known for his theory of relativity?</p>Albert EinsteinRichard FeynmanSir Issac NewtonStephen Hawking@@@@Albert Einstein
+####<p>How many elements are in<br/>a molecule of water (H<sub>2</sub>O)?</p>1234@@@@2
+####<p>What is the product of the binary numbers 0101 and 0101?</p>11000110011101011011@@@@11001
+####<p>Which of these scientists has an element named for them?</p>Benjamin FranklinDmitri MendeleyevJohn DaltonNikola Tesla@@@@Dmitri Mendeleyev
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen"><img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub> + N<sub>2</sub> â†’ 2NH<sub>3</sub></p>1234@@@@3
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>m</b> represent?</p>MarsMassMetersMice@@@@Mass
+####<p>Paper burning is an example of a...</p>Chemical ChangePhysical ChangePocket ChangeSpare Change@@@@Chemical Change
+####<p>A neutron is made of...</p>NougatOne 'up' quark and one 'down' quarkOne 'up' quark and two 'down' quarksTwo 'up' quarks and one 'down' quark@@@@One 'up' quark and two 'down' quarks
+####<p>Which of the four fundamental forces of nature is responsible<br/>for radioactive beta decay?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@The weak force
+####<p>How much of a radioactive substance remains<br/>after 10 hours if its half-life is 5 hours?</p>12.5%25%50%6.25%@@@@25%
+####<p>How many oxygen atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>1017277@@@@17
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">4HgS + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>CaO â†’ 4Hg + 3CaS + CaSO<sub>4</sub></p>2345@@@@4
+####<p>What unit is used to measure an object's<br/>electrical resistance?</p>AmpsCoulombsOhmsVolts@@@@Ohms
+####<p>What device do the scientists at Jefferson Lab<br/>use to study quarks?</p>A cyclotronA really big magnifying glassA synchrotronAn electron accelerator@@@@An electron accelerator
+####<p>How many atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>Â·10H<sub>2</sub>O)?</p>13163343@@@@43
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">SO<sub>2</sub> + Br<sub>2</sub> + 2H<sub>2</sub>O â†’ <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>HBr + H<sub>2</sub>SO<sub>4</sub></p>1234@@@@2
+####<p>Which of these scientists has an element named for them?</p>Carl SaganLise MeitnerSir Issac NewtonThomas Edison@@@@Lise Meitner
+####<p>The chemical symbol for the element iron is...</p>FeIInIr@@@@Fe
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">2NaCl + 2H<sub>2</sub>O ? <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>Cl<sub>2</sub> + H<sub>2</sub> + 2NaOH</p>1234@@@@1
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen"><img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>SiO<sub>2</sub> + 2NaOH ? H<sub>2</sub>O + Na<sub>2</sub>SiO<sub>3</sub></p>1234@@@@1
+####<p>A 90° angle is also called...</p>A right angleAn acute angleAn obtuse angleThe hypotenuse@@@@A right angle
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">AlCl<sub>3</sub> + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>NaOH ? Al(OH)<sub>3</sub> + 3NaCl</p>1234@@@@3
+####<p>Which number would make the statement below true?</p><p class="cen">8 ÷ ___ = 1</p>1248@@@@8
+####<p>Ice melting is an example of a...</p>Chemical ChangePhysical ChangePocket ChangeSpare Change@@@@Physical Change
+####<p>Paleontologists are scientists that mainly study...</p>Amusement park ridesAutomobilesBuildingsFossils and ancient life@@@@Fossils and ancient life
+####<p>Which of the four fundamental forces of nature is responsible<br/>for joining atoms together to form molecules?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@The electromagnetic force
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen"><img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>K + 2H<sub>2</sub>O ? 2KOH + H<sub>2</sub></p>1234@@@@2
+####<p>What is the sum of 5*10<sup>3</sup> and 3*10<sup>2</sup>?</p>5.3*1025.3*1035.3*1045.3*105@@@@5.3*103
+####<p>The chemical symbol for the element manganese is...</p>MdMgMnMo@@@@Mn
+####<p>The chemical symbol for the element potassium is...</p>KPPoPu@@@@K
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">AgNO<sub>3</sub> + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>HCl ? AgCl + HNO<sub>3</sub></p>1234@@@@1
+####<p>What unit is used to measure electrical current?</p>AmpsCoulombsOhmsVolts@@@@Amps
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">Mg(OH)2 + 2HCl ? MgCl<sub>2</sub> + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub>O</p>1234@@@@2
+####<p>What is the sum of the binary numbers 1101 and 1110?</p>11001110101101111100@@@@11011
+####<p>If a square has an area of 121 cm<sup>2</sup>, what is its perimeter?</p>11 cm11 cm244 cm44 cm2@@@@44 cm
+####<p>The coordinate (-2,3) is found in which quadrant<br/>of the Cartesian plane?</p>IIIIIIIV@@@@II
+####<p>In Albert Einstein's famous formula, E = mc<sup>2</sup>,<br/>what does the letter <b>c</b> represent?</p>The force of gravityThe size of an atomThe speed of lightThe temperature in degrees Celsius@@@@The speed of light
+####<p>How far away is the sun?</p>93 miles93,000 miles93,000,000 miles93,000,000,000 miles@@@@93,000,000 miles
+####<p>If the half-life of a radioactive substance is 10 hours,<br/>how long will it take for 50% of it to decay?</p>10 hours15 hours20 hours5 hours@@@@10 hours
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">CH<sub>4</sub> + H<sub>2</sub>O ? CO + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@3
+####<p>In Albert Einstein's famous formula, E = mc<sup>2</sup>,<br/>what does the letter <b>m</b> represent?</p>MarsMassMetersMice@@@@Mass
+####<p>What is the maximum number of electrons<br/>that can fit in an atom's third energy level?</p>16182022@@@@18
+####<p>At what temperature does water boil?</p>0° Celsius100 Kelvin100° Celsius100° Fahrenheit@@@@100° Celsius
+####<p>Which number would make the statement below true?</p><p class="cen">18 - ___ = 12</p>12679@@@@6
+####<p>Which of the four fundamental forces of nature is the weakest?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@Gravity
+####<p>What number, when placed in the box,<br/>balances this chemical reaction?</p><p class="cen">2Li + 2H<sub>2</sub>O ? 2LiOH + <img alt="blank" height="23" src="/million/img/blank_box.gif" width="23"/>H<sub>2</sub></p>1234@@@@1
+####<p>Which of the four fundamental forces of nature is responsible<br/>for the attraction between electrons and protons?</p>GravityThe electromagnetic forceThe strong forceThe weak force@@@@The electromagnetic force
+####<p>What is the sum of 5*10<sup>3</sup> and 3*10<sup>2</sup>?</p>5,3005353,000530@@@@5,300
+####<p>The robotic rover 'Spirit' was used to<br/>explore the surface of which planet?</p>EarthJupiterMarsSaturn@@@@Mars
+####<p>How many boron atoms are in a molecule<br/>of borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O)?</p>10247@@@@4
+####<p>The weak force is transmitted by...</p>GluonsNeutrinosPhotonsW and Z particles@@@@W and Z particles
+####<p>On the graph below, which point is located at (4, 2)?</p><p class="img"><img alt="A number of points are plotted on a grid." height="236" src="/million/img/many_points_01.gif" width="232"/></p>ABCD@@@@A
+####<p>Which of the following is true?</p>2 × 3 > 4 × 24 × 4 < 4 ÷ 45 - 3 = 3 - 58 - 7 < 8 + 7@@@@8 - 7 < 8 + 7
+####<p>The strong force is transmitted by...</p>GluonsNeutrinosPhotonsW and Z particles@@@@Gluons
+####<p>How did Ernest Rutherford discover the nucleus of the atom?</p>He held a piece of gold foil up to the light andcould see them with his eyesHe looked at a piece of gold foil under amicroscope and could see themHe shook a piece of gold foil and could hear themHe shot alpha particles at a piece of gold foil@@@@He shot alpha particles at a piece of gold foil
+####<p>In the equation for a straight line, y = mx + b,<br/>what does the variable <b>m</b> represent?</p>The origin of the lineThe slope of the lineThe x-intercept of the lineThe y-intercept of the line@@@@The slope of the line
+####<p>The electromagnetic force is transmitted by...</p>GluonsNeutrinosPhotonsW and Z particles@@@@Photons
+####<p>A superconductor has...</p>High electrical resistanceInfinite electrical resistanceLow electrical resistanceZero electrical resistance@@@@Zero electrical resistance
+####<p>You throw a ball straight up with a velocity<br/>of 40 meters per second. What is the<br/>ball's velocity after 4 seconds?</p>0 meters per second10 meters per second straight up5 meters per second straight down5 meters per second straight up@@@@0 meters per second
+####<p>At what temperature does water freeze?</p>0 Kelvin0° Celsius0° Fahrenheit212° Fahrenheit@@@@0° Celsius
+####<p>If Earth's northern hemisphere is experiencing summer,<br/>the southern hemisphere is experiencing...</p>FallSpringSummerWinter@@@@Winter
+####<p>Salt dissolving in water is an example of...</p>A chemical changeA nuclear reactionA physical changeA waste of salt@@@@A physical change
+####<p>You drop a 5 kilogram ball from rest from a height of<br/>20 meters. How fast is it moving when it strikes the ground?</p>20 meters per second200 meters per second400 meters per second5 meters per second@@@@20 meters per second
