@@ -528,3 +528,17 @@
 ####<p>If Earth's northern hemisphere is experiencing summer,<br/>the southern hemisphere is experiencing...</p>FallSpringSummerWinter@@@@Winter
 ####<p>Salt dissolving in water is an example of...</p>A chemical changeA nuclear reactionA physical changeA waste of salt@@@@A physical change
 ####<p>You drop a 5 kilogram ball from rest from a height of<br/>20 meters. How fast is it moving when it strikes the ground?</p>20 meters per second200 meters per second400 meters per second5 meters per second@@@@20 meters per second
+####<p>What is the most unusual thing about this meteorite?</p><p class="img"><img alt="A meteorite." height="150" src="/million/img/Sol339B_P2581_150.jpg" width="150"/></p><p class="credit">NASA/JPL</p>It contains a lot of iron and nickelIt is fluent in four different languagesIt was found by an 8th grade studentIt was found on the planet Mars@@@@It was found on the planet Mars
+####<p>In the equation for a straight line, y = mx + b,<br/>what does the variable <b>b</b> represent?</p>The origin of the lineThe slope of the lineThe x-intercept of the lineThe y-intercept of the line@@@@The y-intercept of the line
+####<p>The chemical symbol for the element sodium is...</p>NaSSiSm@@@@Na
+####<p>A black hole emits no light because of its...</p>Dirty atmosphereHigh gravityLow temperatureThick crust@@@@High gravity
+####<p>Which lists the stages of mitosis in the correct order?</p>Metaphase, anaphase, telophase, prophaseProphase, anaphase, metaphase, telophaseProphase, metaphase, anaphase, telophaseTelophase, metaphase, prophase, anaphase@@@@Prophase, metaphase, anaphase, telophase
+####<p>The chemical symbol for the element magnesium is...</p>MdMgMnMo@@@@Mg
+####<p>How many Joules of work are needed to lift a<br/>15 kilogram mass 3 meters off the ground?</p>18 Joules45 Joules450 Joules5 Joules@@@@450 Joules
+####<p>Which of the following expressions is the smallest?</p>12 ÷ 320 ÷ 56 ÷ 38 ÷ 2@@@@6 ÷ 3
+####<p>The chemical symbol for the element gold is...</p>AgAuGaGd@@@@Au
+####<p>Which of the following expressions is the smallest?</p>-3 × -4-5 ÷ 3-8 + 121 - 12@@@@1 - 12
+####<p>In Albert Einstein's famous formula, EÂ =Â mc<sup>2</sup>,<br/>what does the letter <b>E</b> represent?</p>EinsteinEllipseEnergyEverything@@@@Energy
+####<p>The chemical symbol for the element mercury is...</p>AgAuHgW@@@@Hg
+####<p>Which number would make the statement below true?</p><p class="cen">22 Ã· ___ = 2</p>11268@@@@11
+####<p>At what temperature does water boil?</p>0 Kelvin0° Celsius0° Fahrenheit212° Fahrenheit@@@@212° Fahrenheit

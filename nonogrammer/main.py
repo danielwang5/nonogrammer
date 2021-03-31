@@ -6,12 +6,12 @@ from solver_nono import NonogramSolver
 
 
 def main():
-    url = 'http://www.puzzle-nonograms.com/?size=4'
+    url = 'http://www.puzzle-nonograms.com/?size=3'
 
     # add adblocker
     adblock_path = r'C:\Users\Dan\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.28.4_8'
     chrome_options = Options()
-    chrome_options.add_argument('load-extension=' + adblock_path)
+    #chrome_options.add_argument('load-extension=' + adblock_path)
 
     driver = webdriver.Chrome(options=chrome_options)
     driver.create_options()

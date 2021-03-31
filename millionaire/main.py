@@ -36,14 +36,17 @@ def main():
         json = parse(driver.page_source)
         question, answers = json['question'], json['answers']
 
+        if level >= 14:
+            input('GGs')
+
         response, guessed = fetcher.check(question, answers)
-        if guessed:
-            # press 5050 button
-            driver.find_element_by_xpath("//img[@id='fiftyfiftybutton']").click()
-            driver.implicitly_wait(sleep_dur)
-            indices = get_possible_answer_indices(driver.page_source)
-            #print(indices)
-            response, guessed = fetcher.check(question, answers, indices)
+        # if guessed:
+        #     # press 5050 button
+        #     driver.find_element_by_xpath("//img[@id='fiftyfiftybutton']").click()
+        #     driver.implicitly_wait(sleep_dur)
+        #     indices = get_possible_answer_indices(driver.page_source)
+        #     #print(indices)
+        #     response, guessed = fetcher.check(question, answers, indices)
 
         driver.implicitly_wait(sleep_dur)
         # click on right response
@@ -68,8 +71,6 @@ def main():
 
         if correct:
             level += 1
-            if level >= 15:
-                input('GGs')
         else:
             # print(question)
             # print(answers)
