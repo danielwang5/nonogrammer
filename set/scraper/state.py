@@ -22,15 +22,20 @@ def get_state(source):
 
 def is_login(source):
     # TODO
+    pass
 
 def is_lobby(source):
     # TODO
+    pass
 
 def is_waiting(source):
     # TODO
+    pass
 
 def is_game(source):
     # TODO
+    pass
 
 def is_over(source):
     # TODO
+    pass

@@ -1,4 +1,7 @@
 
+def action_click_ok(driver):
+    # TODO
+    pass
 
 def action_login(driver):
     # TODO
